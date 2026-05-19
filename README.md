@@ -8,7 +8,7 @@ This project showcases the power of data analytics, visualization, and business 
 
 # Insurance Premium & Payout Analytics Dashboard
 
-[Live Interactive Dashboard]([PASTE_YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/groups/me/reports/1b955517-be76-4f3c-a61b-4b8315df14ae/f4a61a42137a4bfac7f0?experience=power-bi&bookmarkGuid=c6e4614cab8548cfe9fb))
+[Live Interactive Dashboard](https://app.powerbi.com/groups/me/reports/1b955517-be76-4f3c-a61b-4b8315df14ae/f4a61a42137a4bfac7f0?experience=power-bi&bookmarkGuid=c6e4614cab8548cfe9fb)
 
 ---
 
