@@ -72,15 +72,16 @@ Visualizes the sales team’s structure and performance metrics using charts and
 
 ---
 
-### Key Insights
-The Investment-to-Maturity ratio highlights efficiency in fund utilization.
-Top agents and branches can be identified quickly via the Sales Hierarchy view.
-Customer segmentation aids in targeted product offerings.
-Annual Premium vs Protection ratio reveals gaps in product value delivery.
+## Key Insights
+
+* The **Investment-to-Maturity ratio** highlights efficiency in fund utilization.
+* **Top agents and branches** can be identified quickly via the Sales Hierarchy view.
+* **Customer segmentation** aids in targeted product offerings.
+* **Annual Premium vs Protection ratio** reveals gaps in product value delivery.
 
 ---
 
 ### Final Note
-This dashboard transforms raw insurance data into actionable insights — empowering insurance companies to make data-driven, profitable, and customer-centric decisions.
+This dashboard transforms raw insurance data into actionable insights — empowering insurance companies to make **data-driven, profitable, and customer-centric decisions**.
 
 ---
